@@ -1,0 +1,17 @@
+[03-Apr-2017 07:17:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/mondax88/public_html/mm/application/modules/signup/controllers/Signup.php on line 108
+[08-Apr-2017 08:32:32 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/userlogin/models/Userlogin_modal.php on line 20
+[08-Apr-2017 08:33:58 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/userlogin/models/Userlogin_modal.php on line 20
+[08-Apr-2017 08:33:59 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/userlogin/models/Userlogin_modal.php on line 20
+[08-Apr-2017 09:12:53 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/userlogin/models/Userlogin_modal.php on line 20
+[08-Apr-2017 09:13:26 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/userlogin/models/Userlogin_modal.php on line 20
+[08-Apr-2017 09:16:10 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/userlogin/models/Userlogin_modal.php on line 20
+[08-Apr-2017 09:34:53 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/userlogin/models/Userlogin_modal.php on line 20
+[08-Apr-2017 09:36:24 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/userlogin/models/Userlogin_modal.php on line 20
+[15-Apr-2017 04:57:55 Etc/GMT] PHP Fatal error:  Call to a member function verifyResponse() on a non-object in /home/mondax88/public_html/mmt/application/modules/signup/controllers/Signup.php on line 158
+[15-Apr-2017 04:59:16 Etc/GMT] PHP Fatal error:  Class 'ReCaptcha' not found in /home/mondax88/public_html/mmt/application/modules/signup/controllers/Signup.php on line 162
+[15-Apr-2017 04:59:30 Etc/GMT] PHP Fatal error:  Class 'ReCaptcha' not found in /home/mondax88/public_html/mmt/application/modules/signup/controllers/Signup.php on line 162
+[15-Apr-2017 05:09:55 Etc/GMT] PHP Fatal error:  Call to a member function simple_get() on a non-object in /home/mondax88/public_html/mmt/application/modules/signup/controllers/Signup.php on line 166
+[24-Apr-2017 11:38:52 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/assignment/controllers/Assignment.php on line 425
+[24-Apr-2017 11:39:06 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/assignment/controllers/Assignment.php on line 425
+[25-Apr-2017 18:15:09 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/web/controllers/Web.php on line 188
+[25-Apr-2017 18:16:17 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/mondax88/public_html/mmt/application/modules/web/views/contact.php on line 53
